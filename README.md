@@ -1,2 +1,2 @@
 # biscuits
-I is a website for experimental purposes only.
+It is a website for experimental purposes only.
